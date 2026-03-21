@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on: A forensic tool for image tempering detection<br><br>👯 I’m looking to collaborate on: Open-source Machine Learning  or Data Science projects.<br><br>🤝 I’m looking for help with: Scaling ML models and learning Advanced Neural Networks.<br><br>🌱 I’m currently learning: Deep Learning, Generative AI, and GATE CSE/DA concepts.<br><br>💬 Ask me about: Python, Machine Learning.<br><br>⚡ Fun fact: I can spend hours fine-tuning a model but still think retro fashion is the ultimate aesthetic.
+# 👋 Welcome to my GitHub!
+
+I’m a 3rd-year **B.Tech CSE** student and a developer passionate about the intersection of AI, hardware, and web systems. Here, you'll find my projects, experiments, and contributions across:
+
+**Machine Learning** | **Web Development** | **AI-Automation** | **Data Analysis** | **Deep Learning** 
+
+---
+
+### 🌱 Learning & Goals:
+* **Advanced AI:** Deep-diving into **Generative AI** and Neural Networks.
+* **Academic:** Intensive prep for **GATE CSE (2027)** 
+* **Open Source:** Actively looking to collaborate on ML and Data Science projects.
+
+
+---
+
 
 
 ## 🌐 Socials:
