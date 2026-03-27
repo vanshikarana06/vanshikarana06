@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-I’m a 3rd-year **B.Tech CSE** student  passionate about the intersection of AI, hardware, and web systems. Here, you'll find my projects, experiments, and contributions across:
+I’m a 3rd-year **B.Tech CSE** student  passionate about AI and web systems. Here, you'll find my projects, experiments, and contributions across:
 
 **Machine Learning** | **Web Development** | **AI-Automation** | **Data Analysis** | **Deep Learning** 
 
