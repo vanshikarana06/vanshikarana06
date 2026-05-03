@@ -32,13 +32,13 @@ I’m a **B.Tech Computer Science student** (6th Sem) passionate about building 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikarana06&show_icons=true&theme=radical" alt="Vanshika's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikarana06&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshikarana06&show_icons=true&theme=radical&hide_border=true" alt="Vanshika's Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshikarana06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikarana06&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikarana06&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🏆 Trophies
