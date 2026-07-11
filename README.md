@@ -61,11 +61,11 @@ I approach engineering with a **research-to-production mindset**: every model I 
 
 **AI / ML Frameworks**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,matplotlib,&amp;theme=dark" alt="AI & ML Skills" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
