@@ -69,7 +69,7 @@ I approach engineering with a **research-to-production mindset**: every model I 
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman&theme=dark" />
 
 ---
 
@@ -150,7 +150,7 @@ The repository is organized into **Core Concepts** (perceptrons, backpropagation
 </details>
 
 <details>
-<summary><strong>📊 Machine-Learning — Machine Learning Implementation Library</strong></summary>
+<summary><strong>📊 Machine-Learning — Machine Learning Algorithms Implementation </strong></summary>
 <br/>
 
 A comprehensive collection of Machine Learning algorithms, feature engineering techniques, and end-to-end pipelines implemented in Python and Scikit-learn, covering the full ML lifecycle.
